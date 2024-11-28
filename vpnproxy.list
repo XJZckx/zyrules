@@ -9,5 +9,8 @@ DOMAIN-SUFFIX,1.0.0.1
 DOMAIN,1.0.0.1
 DOMAIN,1.1.1.1
 
+DOMAIN,www.gstatic.com
+DOMAIN-SUFFIX,gstatic.com
+
 IP-CIDR,8.8.8.8/32
 IP-CIDR,1.1.1.1/32
