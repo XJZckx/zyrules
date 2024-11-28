@@ -5,6 +5,10 @@ DOMAIN-KEYWORD,jiashule
 DOMAIN-SUFFIX,cdn.jiashule.com
 DOMAIN,api.dler.io
 DOMAIN-SUFFIX,api.dler.io
+DOMAIN,dns.alidns.com
+DOMAIN-SUFFIX,dns.alidns.com
+DOMAIN,doh.pub
+DOMAIN-SUFFIX,doh.pub
 
 IP-CIDR,202.96.128.166/32
 IP-CIDR,202.96.134.133/32
