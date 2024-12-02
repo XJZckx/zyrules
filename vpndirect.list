@@ -1,10 +1,17 @@
 # 用于机场直连
 DOMAIN-KEYWORD,xfltd
 DOMAIN-KEYWORD,xfltd-cdn
+DOMAIN,cdn.alibaba.com
+DOMAIN-SUFFIX,cdn.alibaba.com
+DOMAIN-KEYWORD,alibaba
+DOMAIN-SUFFIX,cdn.xfltd-cdn.top
+
 DOMAIN-KEYWORD,jiashule
 DOMAIN-SUFFIX,cdn.jiashule.com
+
 DOMAIN,api.dler.io
 DOMAIN-SUFFIX,api.dler.io
+
 DOMAIN,dns.alidns.com
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN,doh.pub
