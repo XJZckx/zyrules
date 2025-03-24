@@ -1,20 +1,16 @@
-# 用于机场直连
 DOMAIN-KEYWORD,xfltd
 DOMAIN-KEYWORD,xfltd-cdn
 DOMAIN,cdn.alibaba.com
 DOMAIN-SUFFIX,cdn.alibaba.com
 DOMAIN-KEYWORD,alibaba
 DOMAIN-SUFFIX,cdn.xfltd-cdn.top
-
 DOMAIN-KEYWORD,jiashule
 DOMAIN-SUFFIX,cdn.jiashule.com
 DOMAIN-KEYWORD,linkhub
 DOMAIN-KEYWORD,link-hub
 DOMAIN-SUFFIX,link-hub.click
-
 DOMAIN,api.dler.io
 DOMAIN-SUFFIX,api.dler.io
-
 DOMAIN,dns.alidns.com
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-KEYWORD,alidns
@@ -27,7 +23,6 @@ IP-CIDR,202.96.128.166/32,no-resolve
 IP-CIDR,202.96.134.133/32,no-resolve
 IP-CIDR,202.96.134.33/32,no-resolve
 IP-CIDR,202.96.128.86/32,no-resolve
-
 IP-CIDR,223.5.5.5/32,no-resolve
 IP-CIDR,223.6.6.6/32,no-resolve
 IP-CIDR,1.12.12.12/32,no-resolve
@@ -36,7 +31,6 @@ IP-CIDR,120.53.53.53/32,no-resolve
 IP-CIDR,119.29.29.29/32,no-resolve
 IP-CIDR,119.28.28.28/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
-
 IP-CIDR6,240e:1f:1::1/128,no-resolve
 IP-CIDR6,2400:3200::1/128,no-resolve
 IP-CIDR6,2400:3200:baba::1/128,no-resolve
