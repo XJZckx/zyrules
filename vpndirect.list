@@ -19,6 +19,10 @@ DOMAIN-SUFFIX,doh.pub
 DOMAIN,dot.pub
 DOMAIN-SUFFIX,dot.pub
 
+DOMAIN,fastly.jsdelivr.net
+DOMAIN,testingcf.jsdelivr.net
+DOMAIN,cdn.jsdelivr.net
+
 IP-CIDR,202.96.128.166/32,no-resolve
 IP-CIDR,202.96.134.133/32,no-resolve
 IP-CIDR,202.96.134.33/32,no-resolve
