@@ -29,7 +29,6 @@ DOMAIN-SUFFIX,users.storage.live.com
 DOMAIN-SUFFIX,secure.skypeassets.com
 DOMAIN-SUFFIX,skype.com
 DOMAIN,mlccdnprod.azureedge.net
-DOMAIN-KEYWORD,teams
 
 IP-CIDR,52.112.0.0/14
 IP-CIDR,52.122.0.0/15
